@@ -1,6 +1,6 @@
 # levantamento-sobre-renda-mensal
 
-##Este programa tem foco em fazer um levantamento sobre a renda mensal de 350 pessoas
+## Este programa tem foco em fazer um levantamento sobre a renda mensal de 350 pessoas
 
 - Ele tem foco em pegar a porcentagem de homens entrevistados;
 - Porcentagem de mulheres entrevistadas;
